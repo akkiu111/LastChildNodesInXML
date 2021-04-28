@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\bin\Debug\LastChildNodeXMLValues.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\bin\Debug\LastChildNodeXMLValues.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\bin\Debug\LastChildNodeXMLValues.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\obj\Debug\LastChildNodeXMLValues.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\obj\Debug\LastChildNodeXMLValues.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\obj\Debug\LastChildNodeXMLValues.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LastChildNodeXMLValues\LastChildNodeXMLValues\obj\Debug\LastChildNodeXMLValues.pdb
